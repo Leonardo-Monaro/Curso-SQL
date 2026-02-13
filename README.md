@@ -1,9 +1,9 @@
 Análise de Vibrações
-!GitHub repo size
-!GitHub language count
-!GitHub forks
-!Bitbucket open issues
-!Bitbucket open pull requests
+![GitHub repo size](https://img.shields.io/github/repo-size/Leonardo-Monaro/Analise_de_Vibracoes?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Leonardo-Monaro/Analise_de_Vibracoes?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Leonardo-Monaro/Analise_de_Vibracoes?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Leonardo-Monaro/Analise_de_Vibracoes?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Leonardo-Monaro/Analise_de_Vibracoes?style=for-the-badge)
 
 
 <div display="inline">
