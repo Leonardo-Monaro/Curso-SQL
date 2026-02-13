@@ -1,4 +1,4 @@
-Análise de Vibrações
+# Curso SQL
 ![GitHub repo size](https://img.shields.io/github/repo-size/Leonardo-Monaro/Analise_de_Vibracoes?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Leonardo-Monaro/Analise_de_Vibracoes?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Leonardo-Monaro/Analise_de_Vibracoes?style=for-the-badge)
